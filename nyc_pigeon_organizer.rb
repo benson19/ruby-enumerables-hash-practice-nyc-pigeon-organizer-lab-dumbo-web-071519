@@ -10,6 +10,8 @@ def nyc_pigeon_organizer(data)
       elsif !new_hash[i][key_atr]
         new_hash[i][key_atr] = [key_param.to_s]
       end
-
+      }
+     }
+    }
 new_hash
 end
